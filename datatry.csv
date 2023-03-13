@@ -1,0 +1,217 @@
+﻿id;position;cost;team;total_points;full_name
+532;DEF;45;Newcastle;92;Dan Burn
+533;MID;52;Newcastle;11;Ryan Fraser
+534;DEF;43;Newcastle;1;Jamaal Lascelles
+535;FWD;45;Newcastle;0;Dwight Gayle
+536;DEF;39;Newcastle;0;Paul Dummett
+537;DEF;42;Newcastle;1;Javier Manquillo
+538;DEF;43;Newcastle;1;Emil Krafth
+539;MID;41;Newcastle;39;Jacob Murphy
+540;DEF;51;Newcastle;102;Fabian Schär
+541;DEF;47;Newcastle;24;Matt Targett
+542;MID;61;Newcastle;45;Allan Saint-Maximin
+543;MID;54;Newcastle;127;Miguel Almirón
+544;MID;43;Newcastle;71;Sean S.Longstaff
+545;MID;59;Newcastle;64;Joelinton Cássio Joelinton
+546;DEF;44;Newcastle;1;Jamal Lewis
+547;MID;47;Newcastle;74;Joe Willock
+548;MID;55;Newcastle;67;Bruno Bruno Guimarães
+549;MID;45;Newcastle;0;Jeff Hendrick
+550;GK;54;Newcastle;106;Nick Pope
+551;DEF;45;Newcastle;90;Sven Botman
+552;MID;44;Newcastle;11;Elliot Anderson
+553;DEF;38;Newcastle;0;Harrison Ashby
+554;FWD;66;Newcastle;32;Alexander Isak
+555;GK;39;Newcastle;0;Loris Karius
+556;MID;45;Newcastle;0;Garang Kuol
+557;MID;45;Newcastle;0;Lewis Miley
+558;DEF;39;Nottingham Forest;41;Neco N.Williams
+559;MID;48;Nottingham Forest;11;Jonjo Shelvey
+560;FWD;56;Nottingham Forest;52;Chris Wood
+561;MID;41;Nottingham Forest;0;Harry Arter
+562;DEF;43;Nottingham Forest;20;Steve Cook
+563;FWD;41;Nottingham Forest;0;Lyle Lyle Taylor
+564;MID;41;Nottingham Forest;14;Jack Colback
+565;GK;45;Nottingham Forest;0;Brice Samba
+566;MID;42;Nottingham Forest;1;Carlos Cafú
+567;MID;49;Nottingham Forest;0;Joe Lolley
+568;DEF;44;Nottingham Forest;38;Scott McKenna
+569;DEF;40;Nottingham Forest;0;Mohamed Dräger
+570;MID;50;Nottingham Forest;42;Ryan Yates
+571;DEF;42;Nottingham Forest;37;Joe Worrall
+572;DEF;40;Nottingham Forest;0;Jonathan Panzo
+573;MID;50;Nottingham Forest;0;Xande Xande Silva
+574;FWD;47;Nottingham Forest;21;Sam Surridge
+575;DEF;45;Nottingham Forest;0;Richie Laryea
+576;DEF;42;Nottingham Forest;0;Loïc Mbe Soh
+577;FWD;57;Nottingham Forest;91;Brennan Johnson
+578;MID;49;Nottingham Forest;1;Alex Mighten
+579;MID;45;Nottingham Forest;0;Braian Ojeda
+580;FWD;56;Nottingham Forest;50;Taiwo Awoniyi
+581;GK;46;Nottingham Forest;82;Dean Henderson
+582;DEF;42;Nottingham Forest;2;Giulian Biancone
+583;DEF;42;Nottingham Forest;33;Willy Boly
+584;MID;55;Nottingham Forest;88;Morgan Gibbs-White
+585;DEF;43;Nottingham Forest;7;Moussa Niakhaté
+586;DEF;44;Nottingham Forest;0;Omar Richards
+587;GK;39;Nottingham Forest;4;Wayne Hennessey
+588;DEF;43;Nottingham Forest;20;Harry Toffolo
+589;MID;48;Nottingham Forest;22;Lewis O'Brien
+590;MID;54;Nottingham Forest;31;Jesse Lingard
+591;MID;49;Nottingham Forest;22;Orel Mangala
+592;MID;43;Nottingham Forest;0;Oliver Hammond
+593;MID;49;Nottingham Forest;43;Remo Freuler
+594;MID;44;Nottingham Forest;27;Cheikhou Kouyaté
+595;FWD;56;Nottingham Forest;22;Emmanuel Dennis
+596;DEF;43;Nottingham Forest;37;Renan Augusto Renan Lodi
+597;DEF;45;Nottingham Forest;0;Loïc Badé
+598;DEF;44;Nottingham Forest;55;Serge Aurier
+599;FWD;45;Nottingham Forest;0;Dale Dale Taylor
+600;GK;40;Nottingham Forest;0;Jordan Smith
+601;MID;48;Nottingham Forest;3;Gustavo Henrique Scarpa
+602;MID;45;Nottingham Forest;2;Danilo Danilo
+603;GK;45;Nottingham Forest;15;Keylor Navas
+604;DEF;45;Nottingham Forest;3;Felipe Augusto Felipe
+605;MID;50;Nottingham Forest;5;André A.Ayew
+606;MID;48;Southampton;23;Ainsley Maitland-Niles
+607;MID;45;Southampton;31;Roméo Lavia
+608;MID;48;Southampton;9;Theo Walcott
+609;GK;43;Southampton;0;Alex McCarthy
+610;MID;48;Southampton;2;Oriol Romeu
+611;MID;53;Southampton;1;Nathan Redmond
+612;MID;47;Southampton;34;Stuart S.Armstrong
+613;MID;52;Southampton;42;Mohamed Elyounoussi
+614;MID;63;Southampton;90;James Ward-Prowse
+615;FWD;54;Southampton;42;Adam A.Armstrong
+616;DEF;44;Southampton;39;Kyle Walker-Peters
+617;DEF;42;Southampton;20;Jan Bednarek
+618;FWD;61;Southampton;77;Che Adams
+619;MID;50;Southampton;0;Nathan Tella
+620;DEF;44;Southampton;15;Lyanco Lyanco
+621;DEF;40;Southampton;0;Yan Valery
+622;MID;45;Southampton;0;Will Smallbone
+623;MID;42;Southampton;17;Ibrahima Diallo
+624;DEF;41;Southampton;59;Romain Perraud
+625;MID;50;Southampton;20;Moussa Djenepo
+626;DEF;44;Southampton;0;Tino Livramento
+627;DEF;43;Southampton;32;Mohammed Salisu
+628;GK;40;Southampton;0;Mateusz Lis
+629;GK;45;Southampton;70;Gavin Bazunu
+630;DEF;45;Southampton;33;Armel Bella-Kotchap
+631;GK;39;Southampton;0;Willy Caballero
+632;MID;51;Southampton;42;Joe Aribo
+633;FWD;53;Southampton;20;Sékou Mara
+634;DEF;40;Southampton;4;Juan Larios
+635;DEF;45;Southampton;19;Duje Caleta-Car
+636;MID;47;Southampton;21;Samuel Edozie
+637;MID;45;Southampton;0;Lewis Payne
+638;MID;45;Southampton;0;Ryan Finnigan
+639;FWD;45;Southampton;0;Jimmy Morgan
+640;MID;52;Southampton;1;Mislav Orsic
+641;MID;50;Southampton;18;Carlos Alcaraz
+642;DEF;45;Southampton;3;James Bree
+643;MID;50;Southampton;10;Kamaldeen Kamaldeen
+644;FWD;55;Southampton;6;Paul Onuachu
+645;GK;54;Tottenham;82;Hugo Lloris
+646;GK;39;Tottenham;17;Fraser Forster
+647;FWD;117;Tottenham;163;Harry Kane
+648;MID;116;Tottenham;88;Son Son
+649;DEF;46;Tottenham;35;Matt Doherty
+650;DEF;51;Tottenham;88;Eric Dier
+651;MID;58;Tottenham;10;Lucas Lucas Moura
+652;DEF;48;Tottenham;86;Ben Davies
+653;MID;55;Tottenham;96;Pierre-Emile Højbjerg
+654;MID;44;Tottenham;0;Harry Winks
+655;DEF;43;Tottenham;22;Davinson Sánchez
+656;DEF;44;Tottenham;35;Ryan R.Sessegnon
+657;MID;55;Tottenham;0;Steven Bergwijn
+658;DEF;42;Tottenham;0;Sergio Reguilón
+659;DEF;39;Tottenham;2;Japhet Tanganga
+660;MID;54;Tottenham;71;Rodrigo Bentancur
+661;MID;43;Tottenham;22;Oliver Skipp
+662;DEF;40;Tottenham;0;Joe Rodon
+663;DEF;49;Tottenham;48;Cristian Romero
+664;MID;47;Tottenham;23;Yves Bissouma
+665;DEF;50;Tottenham;75;Emerson Emerson Royal
+666;MID;79;Tottenham;70;Dejan Kulusevski
+667;FWD;45;Tottenham;0;Dane Scarlett
+668;DEF;54;Tottenham;73;Ivan Perišić
+669;MID;44;Tottenham;1;Harvey White
+670;MID;42;Tottenham;5;Pape Matar Sarr
+671;GK;39;Tottenham;0;Brandon Austin
+672;MID;43;Tottenham;0;Alfie Devine
+673;FWD;45;Tottenham;0;Troy Parrott
+674;FWD;84;Tottenham;30;Richarlison Richarlison
+675;DEF;48;Tottenham;39;Clément Lenglet
+676;DEF;41;Tottenham;4;Djed Spence
+677;MID;50;Tottenham;9;Bryan Bryan
+678;MID;63;Tottenham;1;Arnaut Danjuma
+679;DEF;48;Tottenham;8;Pedro Pedro Porro
+680;FWD;64;West Ham;76;Danny Ings
+681;GK;50;West Ham;86;Lukasz Fabianski
+682;DEF;44;West Ham;24;Angelo Ogbonna
+683;DEF;47;West Ham;43;Aaron Cresswell
+684;FWD;70;West Ham;53;Michail Antonio
+685;MID;51;West Ham;7;Manuel Lanzini
+686;DEF;44;West Ham;58;Kurt Zouma
+687;DEF;45;West Ham;0;Arthur Masuaku
+688;DEF;41;West Ham;35;Vladimir Coufal
+689;MID;55;West Ham;64;Saïd Benrahma
+690;MID;80;West Ham;92;Jarrod Bowen
+691;MID;50;West Ham;0;Nikola Vlasic
+692;MID;47;West Ham;77;Declan Rice
+693;MID;51;West Ham;59;Tomas Soucek
+694;MID;49;West Ham;44;Pablo Fornals
+695;DEF;44;West Ham;26;Ben Johnson
+696;DEF;48;West Ham;19;Nayef Aguerd
+697;GK;43;West Ham;4;Alphonse Areola
+698;MID;42;West Ham;17;Flynn Downes
+699;FWD;66;West Ham;41;Gianluca Scamacca
+700;DEF;40;West Ham;26;Emerson Emerson
+701;MID;44;West Ham;1;Conor Coventry
+702;MID;44;West Ham;0;Armstrong Oko-Flex
+703;MID;59;West Ham;5;Maxwel Cornet
+704;DEF;44;West Ham;39;Thilo Kehrer
+705;MID;59;West Ham;55;Lucas Paquetá
+706;FWD;45;West Ham;1;Divin Mubama
+707;GK;40;West Ham;0;Joseph Anang
+708;GK;39;West Ham;0;Krisztián Hegyi
+709;DEF;40;West Ham;0;Kaelan Casey
+710;DEF;48;Wolverhampton;44;Craig Dawson
+711;FWD;67;Wolverhampton;22;Raúl Jiménez
+712;DEF;43;Wolverhampton;40;Jonathan Jonny
+713;GK;50;Wolverhampton;108;José Sá
+714;MID;54;Wolverhampton;86;Rúben Neves
+715;MID;57;Wolverhampton;27;Hwang Hwang
+716;DEF;50;Wolverhampton;47;Nélson Semedo
+717;MID;53;Wolverhampton;72;Daniel Podence
+718;DEF;44;Wolverhampton;79;Max Kilman
+719;MID;44;Wolverhampton;0;Luke Cundle
+720;MID;49;Wolverhampton;19;Pedro Neto
+721;DEF;42;Wolverhampton;40;Rayan Aït-Nouri
+722;FWD;55;Wolverhampton;0;Fabio Fabio Silva
+723;DEF;39;Wolverhampton;11;Toti António Toti
+724;MID;50;Wolverhampton;0;Francisco Jorge Chiquinho
+725;MID;54;Wolverhampton;50;Adama Adama
+726;GK;39;Wolverhampton;0;Matija Šarkić
+727;DEF;39;Wolverhampton;0;Yerson Mosquera
+728;MID;47;Wolverhampton;49;João Filipe Iria Moutinho
+729;DEF;43;Wolverhampton;43;Nathan Collins
+730;GK;39;Wolverhampton;0;Jackson Smith
+731;DEF;39;Wolverhampton;32;Hugo Bueno
+732;MID;44;Wolverhampton;4;Joseph Hodge
+733;MID;44;Wolverhampton;1;Connor Ronan
+734;MID;44;Wolverhampton;5;Chem Campbell
+735;MID;58;Wolverhampton;29;Gonçalo Manuel Guedes
+736;MID;48;Wolverhampton;54;Matheus Luiz Matheus
+737;FWD;53;Wolverhampton;1;Sasa Kalajdžić
+738;FWD;54;Wolverhampton;15;Diego Diego Costa
+739;MID;43;Wolverhampton;12;Boubacar Traoré
+740;FWD;45;Wolverhampton;0;Nathan Fraser
+741;MID;44;Wolverhampton;0;Harvey Griffiths
+742;DEF;40;Wolverhampton;1;Dexter Lembikisa
+743;FWD;55;Wolverhampton;10;Matheus Cunha
+744;MID;45;Wolverhampton;8;Mario Lemina
+745;MID;55;Wolverhampton;18;Pablo Sarabia
+746;GK;40;Wolverhampton;0;Daniel Bentley
+747;MID;45;Wolverhampton;9;João Victor João Gomes
